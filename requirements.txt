@@ -1,0 +1,23 @@
+# Manejo de datos
+pandas
+numpy
+openpyxl
+
+# Visualización exploratoria
+matplotlib
+seaborn
+
+# Machine Learning / Modelado
+scikit-learn
+
+# Conexión a bases de datos
+sqlalchemy
+psycopg2-binary
+
+# Jupyter Notebook
+notebook
+jupyterlab
+ipykernel
+
+# Documentación y utilidades
+markdown

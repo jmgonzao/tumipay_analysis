@@ -1,1 +1,0 @@
-# tumipay_analysis
